@@ -6,7 +6,7 @@ I have a created a simple responsive QR code component using HTML and CSS only.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://jain-saji.github.io/QR-code-component/
 
 ### Built with
 
